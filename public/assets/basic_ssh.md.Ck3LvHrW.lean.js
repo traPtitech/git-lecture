@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a1 as t}from"./chunks/framework.DPIBHfDg.js";const g=JSON.parse('{"title":"おまけ2: SSHの設定","description":"","frontmatter":{},"headers":[],"relativePath":"basic/ssh.md","filePath":"basic/ssh.md"}'),e={name:"basic/ssh.md"},h=t("",31),n=[h];function p(l,k,r,d,F,o){return a(),i("div",null,n)}const B=s(e,[["render",p]]);export{g as __pageData,B as default};
